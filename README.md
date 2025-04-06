@@ -20,7 +20,7 @@ This project mainly achieve some function related to geometry problem in IFC. Sp
 
 + IFC model
 
-  ![1](E:\Tim Dropbox\Dropbox\2. myResearch\test project\ifcGeometryHandle\imgs\1.jpg)
+  ![1](。/imgs/1.jpg)
 
 + Graph for the building
 
